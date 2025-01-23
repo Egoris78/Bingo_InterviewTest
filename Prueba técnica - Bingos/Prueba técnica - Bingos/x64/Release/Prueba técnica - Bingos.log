@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(40,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(49,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(51,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(52,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(53,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(57,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(58,26): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(69,28): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(77,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(82,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(84,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(85,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(86,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(89,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(95,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(97,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(98,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(99,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(102,26): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(153,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(165,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Egoris\source\repos\Prueba técnica - Bingos\Prueba técnica - Bingos\main.cpp(230,38): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  1 of 1020 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Prueba técnica - Bingos.vcxproj -> C:\Users\Egoris\source\repos\Prueba técnica - Bingos\x64\Release\Prueba técnica - Bingos.exe

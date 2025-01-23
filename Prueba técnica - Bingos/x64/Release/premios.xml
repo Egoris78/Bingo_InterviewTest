@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Premios>
+	<Premio id="0" nombre="Linea" valor="20" exclusiones="" condicionesFila="1" patron="" />
+	<Premio id="1" nombre="DobleLinea" valor="60" exclusiones="0" condicionesFila="2" patron="" />
+	<Premio id="2" nombre="Bandera" valor="40" exclusiones="" condicionesFila="-1" patron="1,0,1,0,1/0,1,0,1,0/1,0,1,0,1" />
+	<Premio id="3" nombre="BINGO" valor="150" exclusiones="0,1,2" condicionesFila="3" patron="" />
+</Premios>
